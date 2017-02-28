@@ -1,1 +1,3 @@
-# JavaScript设计模式
+# JavaScript璁捐妯″紡
+
+瀛︿範JavaScript璁捐妯″紡鑷繁鏁茬殑浠ｇ爜
