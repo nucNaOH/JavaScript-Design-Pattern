@@ -1,3 +1,3 @@
 # JavaScript设计模式
 
-学习JavaScript设计模式自己敲的代码
+学习JavaScript设计模式自己敲的代码ll
